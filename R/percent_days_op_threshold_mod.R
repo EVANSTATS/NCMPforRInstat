@@ -25,7 +25,6 @@
 #' 
 #' # The 'result' vector will contain the calculated percent days diagnostics.
 #' 
-
 #' @references
 #' For the original source code and more information, please refer to: \href{https://github.com/ET-NCMP/NCMP/}{ET-NCMP/NCMP project}
 #' 
